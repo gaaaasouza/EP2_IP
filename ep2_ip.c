@@ -1,14 +1,3 @@
-/*********************************************************************/
-/**   ACH2001 - Introducao a Programacao                            **/
-/**   EACH-USP - Primeiro Semestre de 2022                          **/
-/**   <turma> - <Marcos Lordello Chaim>                             **/
-/**                                                                 **/
-/**   Segundo Exercicio-Programa                                    **/
-/**                                                                 **/
-/**   <Guilherme>                   			                    **/
-/**                                                                 **/
-/*********************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
