@@ -1,6 +1,6 @@
-**Biblioteca particular**
+# Biblioteca particular
 
-1. Descrição
+## Descrição
 
 Neste exercício você deve desenvolver um programa para controlar uma biblioteca particular. Essa
 biblioteca possui espaço para 150 livros. Todo livro deve ser catalogado, isto é, inserido na biblioteca.
@@ -17,7 +17,7 @@ O sistema deve produzir os seguintes relatórios: livros ordenados em ordem lexi
 conhecida como ordem do dicionário, ordem alfabética) por nome do livro e livros ordenados por
 frequência de empréstimos (mais emprestados em primeiro lugar).
 
-2. Estruturas da biblioteca particular
+## Estruturas da biblioteca particular
 
 A biblioteca pode ser implementada usando duas estruturas: *Biblioteca* e *Livro*. A estrutura
 *Biblioteca* possuirá como campo um arranjo de pelo menos 150 posições. Cada posição deste arranjo
@@ -36,7 +36,7 @@ os seguintes dados sobre o livro:
 
 Já consta a declaração dessas estruturas e uma função para criar um novo livro, mas
 deverá escrever funções que manipulam os elementos *Livros* da estrutura *Biblioteca*. Além disso,
-uma função *imprimirDados* deve ser implementada de forma a imprimir a saída da ficha de um livro
+uma função 'imprimirDados' deve ser implementada de forma a imprimir a saída da ficha de um livro
 semelhante à seguinte.
 
  Nome: The great gatsby\
@@ -46,17 +46,17 @@ semelhante à seguinte.
  Area: literatura\
  Ano publicacao: 1991\
  Numero de emprestimos: 0\
- Emprestado? Nao\
+ Emprestado? Nao
 
  Outro exemplo:
 
- Nome: O mundo assombrado pelos demonios
- Autor: Carl Sagan
- Autores secundarios: nao ha
- Editora: Companhia da Letras
- Area: ciencias
- Ano publicacao: 1995
- Numero de emprestimos: 0
+ Nome: O mundo assombrado pelos demonios\
+ Autor: Carl Sagan\
+ Autores secundarios: nao ha\
+ Editora: Companhia da Letras\
+ Area: ciencias\
+ Ano publicacao: 1995\
+ Numero de emprestimos: 0\
  Emprestado? Nao
 
  A estrutura *Biblioteca* deve ser acessada por meio de funções para inserção, ordenação, empréstimo
