@@ -39,14 +39,14 @@ deverá escrever funções que manipulam os elementos *Livros* da estrutura *Bib
 uma função *imprimirDados* deve ser implementada de forma a imprimir a saída da ficha de um livro
 semelhante à seguinte.
 
- Nome: The great gatsby
+ Nome: The great gatsby;
  Autor: Scott Fitzgerald
- Autores secundarios: Mathew j. Bruccoli
- Editora: Collier books
- Area: literatura
- Ano publicacao: 1991
- Numero de emprestimos: 0
- Emprestado? Nao
+ Autores secundarios: Mathew j. Bruccoli;
+ Editora: Collier books;
+ Area: literatura;
+ Ano publicacao: 1991;
+ Numero de emprestimos: 0;
+ Emprestado? Nao.
 
  Outro exemplo:
 
